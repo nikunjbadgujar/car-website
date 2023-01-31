@@ -1,0 +1,13 @@
+h1{ 
+    background-color: green; color: white;
+}
+h2{ 
+    background-color: wheat; color: green;
+}
+li {
+    list-style-type: circle;
+}
+
+li li {
+    list-style-type: square;
+}
